@@ -1,4 +1,4 @@
-# antiddosphpscript
+# AntiDdosPhPScript
 Protejete De DDos Simple, Como Usuarlo? Es Facil, MEtes La Carpeta IPlog en Tu Web, Y El AntiDDos.php
 
 Y En El Index.PhP
